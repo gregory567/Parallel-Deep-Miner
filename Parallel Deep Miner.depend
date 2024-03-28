@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1683036733 source:c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\main.cpp
+	<iostream>
+	<array>
+	<cstdlib>
+	<ctime>
+	<string>
+	<algorithm>
+	<functional>
+	<thread>
+	<mutex>
+	<chrono>
+	<vector>
+	"Robot.hpp"
+	"Mine.hpp"
+	"Mine.cpp"
+	"sortingBot.hpp"
+	"sortingBot.cpp"
+	"tripleBot.hpp"
+	"tripleBot.cpp"
+	"skilledBot.hpp"
+	"skilledBot.cpp"
+	"shuffleBot.hpp"
+	"shuffleBot.cpp"
+	"comboBot.hpp"
+	"comboBot.cpp"
+	"Game.hpp"
+	"Game.cpp"
+
+1683035305 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\robot.hpp
+
+1682952020 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\mine.hpp
+
+1682886990 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\mine.cpp
+
+1683014178 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\sortingbot.hpp
+
+1683035921 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\sortingbot.cpp
+	"Robot.cpp"
+
+1683034168 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\robot.cpp
+
+1683014203 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\triplebot.hpp
+
+1683035937 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\triplebot.cpp
+
+1683014149 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\skilledbot.hpp
+
+1683035909 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\skilledbot.cpp
+
+1682938579 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\game.hpp
+
+1683036596 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\game.cpp
+
+1683014121 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\shufflebot.hpp
+
+1683035894 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\shufflebot.cpp
+
+1683012544 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\combobot.hpp
+
+1683035874 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\parallel deep miner\combobot.cpp
+
